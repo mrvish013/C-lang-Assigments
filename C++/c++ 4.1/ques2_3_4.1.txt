@@ -1,0 +1,41 @@
+Ques 2) What is OOPs? and it's concept.
+
+ans :  The object oriented programming is used to design programs with objects and classes, or making the programs with different patterns.
+
+Concept of oops :
+
+* Classes : it's the collection of data members and member functions, where data memebers are variables and member function are normal functions.
+
+* Objects : they are used to call the different functions in their respective class.
+
+* Encapsulation : It's the collection of different types of functions in a single class.
+
+* Inheritance : it's used for using the functions of one class to another class.
+ there are 5 types of inheritance :
+ ~ single inheritance
+ ~ multiple inheritance
+ ~ multilevel inheritance
+ ~ heirarchal inheritance
+ ~ hybrid inheritance
+
+* Polymorphism : using functions in other class of same name of one class, in two different ways that are 
+ (i) runtime : in which we use scope resolution.
+ (ii) compile time : deciding by own, which function to use if having same name. 
+
+* Abstraction : in this it's compulsory to use a particular function in other class as well using inheritance.
+
+
+
+
+**********************************************************************************************************************************************************************************
+
+
+Ques 3) Differrence between OOP and POP.
+
+ans : OOP is object oriented programming in which we uses class and object for a program to run, and in the case of POP, i.e, Procedural oriented programming in which we use different functions to calculate many task in simple ways and in orderly manners, so we make function in POP.
+
+
+
+
+
+**********************************************************************************************************************************************************************
